@@ -1,0 +1,14 @@
+{
+    "name": " david4worx/domtemplate",
+    "homepage": "https://github.com/david4worx/domtemplate",
+    "type": "library",
+    "description": "XPath DOM templating tool",
+    "require": {
+        "php": ">=5.2.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "DOMTemplate\\": "/src"
+        }
+    }
+}
