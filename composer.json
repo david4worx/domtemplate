@@ -1,6 +1,6 @@
 {
     "name": " david4worx/domtemplate",
-    "homepage": "https://github.com/Kroc/DOMTemplate",
+    "homepage": "https://github.com/david4worx/domtemplate",
     "type": "library",
     "description": "XPath DOM templating tool",
     "require": {
