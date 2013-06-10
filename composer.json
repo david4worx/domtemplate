@@ -1,0 +1,14 @@
+{
+    "name": " Kroc/DOMTemplate",
+    "homepage": "https://github.com/Kroc/DOMTemplate",
+    "type": "library",
+    "description": "XPath DOM templating tool",
+    "require": {
+        "php": ">=5.2.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "DOMTemplate\\": ""
+        }
+    }
+}
