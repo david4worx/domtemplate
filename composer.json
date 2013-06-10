@@ -1,5 +1,5 @@
 {
-    "name": " Kroc/DOMTemplate",
+    "name": " david4worx/DOMTemplate",
     "homepage": "https://github.com/Kroc/DOMTemplate",
     "type": "library",
     "description": "XPath DOM templating tool",
@@ -8,7 +8,7 @@
     },
     "autoload": {
         "psr-0": {
-            "DOMTemplate\\": ""
+            "DOMTemplate\\": "/src"
         }
     }
 }
